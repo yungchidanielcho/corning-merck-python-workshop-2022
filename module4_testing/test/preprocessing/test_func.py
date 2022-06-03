@@ -22,3 +22,4 @@ def test_row_to_list():
     assert row_to_list_result[0] == expected_dt
     assert isinstance(row_to_list_result[1], (int, float))
     assert pytest.approx()
+
