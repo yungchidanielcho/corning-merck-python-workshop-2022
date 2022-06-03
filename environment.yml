@@ -1,0 +1,14 @@
+name: corning_merck_workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - pip
+  - matplotlib
+  - pip:
+    - pymysql
+    - markdown
+    - ibis-framework[postgres,bigquery,sqlite,mysql]
+

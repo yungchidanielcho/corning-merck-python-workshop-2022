@@ -1,0 +1,8 @@
+setuptools
+wheel
+jupyter
+numpy
+pandas
+matplotlib >= 3.5
+twine
+pytest
