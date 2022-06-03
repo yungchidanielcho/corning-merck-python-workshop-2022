@@ -1,6 +1,6 @@
+"""test if module2 so2_emission is successfully imported"""
 import so2_emission
 
-# test if so2_emission is successfully imported
 help(so2_emission)
 help(so2_emission)
 help(so2_emission.my_min)
