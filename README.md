@@ -1,4 +1,4 @@
-# Merck - Corning Data Science Workshop
+# Corning - Merck Data Science Workshop
 
 ## Introduction to python package development
 As data project mature, data scientists may need make their script work on
@@ -27,7 +27,8 @@ PDF will be available when the presentation is finalized
    For pycharm see [Configure a Conda virtual environment](https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html)
 
    ![pycharm conda setup](img.png)
-
+   
+   Navigate to the folder containing requirements.txt and use pip to install dependencies.
    ```bash
    cd <full-path/to-requirements.txt>
    pip install -r requirements.txt
